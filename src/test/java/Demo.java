@@ -26,7 +26,7 @@ public class Demo {
 
         //Student st = new Student();
         //st.setUname("李四六");
-        //st.setAddress("郑州文化路");
+        //st.setAddress("上海宝山");
         //sm.insert(st);
 
         System.out.println(sm.queryAll().size());
